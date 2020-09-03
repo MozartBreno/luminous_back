@@ -1,0 +1,40 @@
+{
+  "Cliente": [
+    {
+      "id": 1,
+      "nome": "mateus da silva",
+      "cpf": "123.456.789-78",
+      "estado": "Ceará"
+    },
+    {
+      "id": 2,
+      "nome": "mozart breno",
+      "cpf": "123.456.789-78",
+      "estado": "Ceará"
+    },
+    {
+      "id": 3,
+      "nome": "felipe chaves",
+      "cpf": "123.456.789-78",
+      "estado": "Ceará"
+    },
+    {
+      "nome": "teste do sistema",
+      "cpf": "070.290.683-27",
+      "estado": "sergipe",
+      "id": 4
+    },
+    {
+      "nome": "vitoria",
+      "cpf": "123.123.123-12",
+      "estado": "sao paulo",
+      "id": 5
+    },
+    {
+      "nome": "mateus",
+      "cpf": "145.123.658-25",
+      "estado": "ceara",
+      "id": 6
+    }
+  ]
+}
